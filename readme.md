@@ -39,3 +39,4 @@ Here are all the icons I have so far:
 ![Jira](https://github.com/bobbygrdn/icons-pack/assets/96712943/d5a5c018-771e-454b-86ac-33eebcbf4108)
 ![icons8-spring-boot-144](https://github.com/bobbygrdn/icons-pack/assets/96712943/9bb32a39-7e08-4ccf-ad37-d95da3997b2b)
 ![jest 463x512](https://github.com/bobbygrdn/icons-pack/assets/96712943/556940b1-3ef4-4343-8d50-26f94367b82e)
+![junit5-logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/041fb96f-f3fe-4b85-862c-525b3ba825f9)

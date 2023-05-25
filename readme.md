@@ -35,3 +35,4 @@ Here are all the icons I have so far:
 ![Trello](https://github.com/bobbygrdn/icons-pack/assets/96712943/2b0afe33-1664-44d2-b769-111a568e0222)
 ![VSCode Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/8c399f22-e199-4f9f-988e-3cb306b6c367)
 ![icons8-java-144](https://github.com/bobbygrdn/icons-pack/assets/96712943/4ed1bbdf-fb43-4314-a759-7cb6d0949a1e)
+![github-mark](https://github.com/bobbygrdn/icons-pack/assets/96712943/0c9c658b-e0c0-4f77-a5c1-56d9b4250609)

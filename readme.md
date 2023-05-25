@@ -37,3 +37,4 @@ Here are all the icons I have so far:
 ![icons8-java-144](https://github.com/bobbygrdn/icons-pack/assets/96712943/4ed1bbdf-fb43-4314-a759-7cb6d0949a1e)
 ![github-mark](https://github.com/bobbygrdn/icons-pack/assets/96712943/0c9c658b-e0c0-4f77-a5c1-56d9b4250609)
 ![Jira](https://github.com/bobbygrdn/icons-pack/assets/96712943/d5a5c018-771e-454b-86ac-33eebcbf4108)
+![icons8-spring-boot-144](https://github.com/bobbygrdn/icons-pack/assets/96712943/9bb32a39-7e08-4ccf-ad37-d95da3997b2b)

@@ -34,3 +34,4 @@ Here are all the icons I have so far:
 ![React](https://github.com/bobbygrdn/icons-pack/assets/96712943/8afe1c0e-b121-436a-a00a-aa377251a39f)
 ![Trello](https://github.com/bobbygrdn/icons-pack/assets/96712943/2b0afe33-1664-44d2-b769-111a568e0222)
 ![VSCode Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/8c399f22-e199-4f9f-988e-3cb306b6c367)
+![icons8-java-96](https://github.com/bobbygrdn/icons-pack/assets/96712943/791ac25e-c974-4a53-a22f-5095c6f1de6b)

@@ -22,7 +22,6 @@ Here are all the icons I have so far:
 ![Heart Light](https://github.com/bobbygrdn/icons-pack/assets/96712943/36c591eb-4d98-491f-8022-96a3f0cb82c4)
 ![HTML Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/f474cc08-9c03-4714-bcb4-255a5701f3ee)
 ![JavaScript Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/cfa1284c-b1d9-4bad-bb9d-75ec5f1f9ae1)
-![Jest Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/ddb07eb8-1ab3-49c9-a3f6-35cd1d5caf38)
 ![jQuery Logo](https://github.com/bobbygrdn/icons-pack/assets/96712943/34b58a8b-dae9-4c17-95a1-1c8232e1d125)
 ![LinkedIn Dark](https://github.com/bobbygrdn/icons-pack/assets/96712943/f5e8fea9-ab44-40e5-8d73-43b034cd2d70)
 ![LinkedIn Light](https://github.com/bobbygrdn/icons-pack/assets/96712943/2f0933b7-012c-4bba-98c7-1036c01d20ee)

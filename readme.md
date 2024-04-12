@@ -1,5 +1,6 @@
 Here are all the icons I have so far:
 
+![thymeleaf](https://github.com/bobbygrdn/icons-pack/assets/96712943/41a6ed6d-4b68-4cf0-a8d2-dd21d5f7e4a9)
 ![Godot Icon](https://github.com/bobbygrdn/icons-pack/assets/96712943/86d9c389-1163-4ed1-b62b-c2c9942aef13)
 ![C++](https://github.com/bobbygrdn/icons-pack/assets/96712943/8256c7e2-9bfe-4b7e-9f21-b23a0be39519)
 ![C#](https://github.com/bobbygrdn/icons-pack/assets/96712943/818c6049-9890-4f55-a9ae-944584016ce7)
